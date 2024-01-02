@@ -7,4 +7,13 @@ assignees: yidasom
 
 ---
 
+## purpose
+API 를 이용한 통합 로그인 서비스 기능 개발
 
+## details
+- [ ] uses naver Oauth2.0
+- [ ] uses kakao Oauth2.0
+- [ ] uses google Oauth2.0
+- [ ] uses github Oauth2.0
+
+## note
