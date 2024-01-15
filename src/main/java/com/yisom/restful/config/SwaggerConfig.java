@@ -1,4 +1,4 @@
-package com.yisom.restful.oauthapi.config;
+package com.yisom.restful.config;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Info;

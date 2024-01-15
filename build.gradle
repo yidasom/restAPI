@@ -26,10 +26,17 @@ dependencies {
 //	implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	implementation 'org.springframework.boot:spring-boot-starter-web-services'
+	implementation 'org.projectlombok:lombok:1.18.20'
+	implementation 'org.slf4j:slf4j-api:2.0.7'
 	compileOnly 'org.projectlombok:lombok'
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	testImplementation 'org.mockito:mockito-core:4.11.0'
+	testImplementation 'org.mockito:mockito-inline:4.11.0'
+
+
+
 
 	implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.2.0'
 }
